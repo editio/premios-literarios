@@ -1,0 +1,1361 @@
+Id,Label,sexlabel,type
+1,Premio Goncourt,,false
+2,Premio Nobel de Literatura,,false
+3,Premio Miguel de Cervantes,,false
+4,Premio O. Henry,,false
+5,Premio Pulitzer,,false
+6,Premio de Ficción Femenina,,false
+7,Premio Nadal,,false
+8,Premio Camões,,false
+9,Gran Premio de Novela de la Academia Francesa,,false
+10,Premio Biblioteca Breve,,false
+11,Premio de la Paz del Comercio Librero Alemán,,false
+12,Premio Strega,,false
+13,Premio Nacional del Libro de Ficción,,false
+14,Premio Loewe,,false
+15,Premio Herralde,,false
+16,Premio Ojo Crítico,,false
+17,Premio Adonáis de Poesía,,false
+18,Premio Lazarillo,,false
+19,Premio Hans Christian Andersen,,false
+20,Premio Booker,,false
+21,Premio Alfaguara de Novela,,false
+22,Premio literario Nike,,false
+23,Premio Hiperión,,false
+24,Premio Nacional de Narrativa,,false
+25,Premio Nacional de Literatura Infantil y Juvenil,,false
+26,Premio Planeta,,false
+27,Premio Nacional de Poesía,,false
+28,Premio Princesa de Asturias de las Letras,,false
+29,Premio de la Crítica Española,,false
+30,Premio Café Gijón,,false
+31,Premio Castilla y León de las Letras,,false
+32,Premio Anagrama,,false
+33,Premio El Barco de Vapor,,false
+34,Premio Iberoamericano de Poesía Pablo Neruda,,false
+35,Premio Dulce Chacón de Narrativa Española,,false
+36,Elsa Triolet,femenino,true
+37,Halldór Laxness,masculino,true
+38,Elias Canetti,masculino,true
+39,Jorge Luis Borges,masculino,true
+40,Bob Dylan,masculino,true
+41,Maurice Genevoix,masculino,true
+42,Atiq Rahimi,masculino,true
+43,Henri Troyat,masculino,true
+44,Kenzaburō Ōe,masculino,true
+45,Elena Poniatowska,femenino,true
+46,Álvaro Mutis,masculino,true
+47,Woody Allen,masculino,true
+48,Jérôme Ferrari,masculino,true
+49,Marcel Arland,masculino,true
+50,Amin Maalouf,masculino,true
+51,Truman Capote,masculino,true
+52,Andrea Barrett,femenino,true
+53,Martha Gellhorn,femenino,true
+54,Simone de Beauvoir,femenino,true
+55,Francis Ambrière,masculino,true
+56,André Malraux,masculino,true
+57,Annie Proulx,femenino,true
+58,François Mauriac,masculino,true
+59,Rabindranath Tagore,masculino,true
+60,Saul Bellow,masculino,true
+61,William Faulkner,masculino,true
+62,Carlos Fuentes,masculino,true
+63,John Updike,masculino,true
+64,Octavio Paz,masculino,true
+65,Darío Fo,masculino,true
+66,George Gershwin,masculino,true
+67,Camilo José Cela,masculino,true
+68,Günter Grass,masculino,true
+69,Pearl S. Buck (mi yaya),femenino,true
+70,Raymond Carver,masculino,true
+71,Ana María Matute,femenino,true
+72,Zadie Smith,femenino,true
+73,Aaron Copland,masculino,true
+74,Francisco Umbral,masculino,true
+75,Juan Carlos Onetti,masculino,true
+76,Gabriela Mistral,femenino,true
+77,Joyce Carol Oates,femenino,true
+78,Cynthia Dwork,femenino,true
+79,Joseph Brodsky,masculino,true
+80,Henri Barbusse,masculino,true
+81,Jorge Guillén,masculino,true
+82,Eduardo Mendoza,masculino,true
+83,Marcel Proust,masculino,true
+84,Mario Vargas Llosa,masculino,true
+85,Cristina Peri Rossi,femenino,true
+86,Jonathan Littell,masculino,true
+87,Robert Merle,masculino,true
+88,Jean Carrière,masculino,true
+89,John J. Pershing,masculino,true
+90,Sigrid Undset,femenino,true
+91,John Galsworthy,masculino,true
+92,Marie NDiaye,femenino,true
+93,Gabriel García Márquez,masculino,true
+94,Maurice Druon,masculino,true
+95,Patrick Modiano,masculino,true
+96,Miguel Delibes,masculino,true
+97,Lorrie Moore,femenino,true
+98,María Zambrano,femenino,true
+99,Wallace Stegner,masculino,true
+100,Alejo Carpentier,masculino,true
+101,Andreï Makine,masculino,true
+102,Pascal Quignard,masculino,true
+103,André Schwarz-Bart,masculino,true
+104,Marguerite Duras,femenino,true
+105,Georges Duhamel,masculino,true
+106,Rafael Alberti,masculino,true
+107,Luigi Pirandello,masculino,true
+108,Romain Gary,masculino,true
+109,Michel Tournier,masculino,true
+110,Chimamanda Ngozi Adichie,femenino,true
+111,Adolfo Bioy Casares,masculino,true
+112,Guillermo Cabrera Infante,masculino,true
+113,Francisco Ayala,masculino,true
+114,A. S. Byatt,femenino,true
+115,Alice Walker,femenino,true
+116,Salvatore Quasimodo,masculino,true
+117,Jean Echenoz,masculino,true
+118,Jean-Jacques Gautier,masculino,true
+119,Alphonse de Châteaubriant,masculino,true
+120,Dulce María Loynaz,femenino,true
+121,Naguib Mahfuz,masculino,true
+122,Michel Houellebecq,masculino,true
+123,Vintilă Horia,masculino,true
+124,Érik Orsenna,masculino,true
+125,Dámaso Alonso,masculino,true
+126,Grazia Deledda,femenino,true
+127,Eudora Welty,femenino,true
+128,Tahar Ben Jelloun,masculino,true
+129,Mathias Enard,masculino,true
+130,Irwin Shaw,masculino,true
+131,John Cheever,masculino,true
+132,Gerardo Diego,masculino,true
+133,Maxwell Anderson,masculino,true
+134,Béatrix Beck,femenino,true
+135,Gilles Leroy,masculino,true
+136,Armand Lanoux,masculino,true
+137,Lucien Fabre,masculino,true
+138,Walter Lippmann,masculino,true
+139,Carl Bernstein,masculino,true
+140,Winston Churchill,masculino,true
+141,Jorge Edwards,masculino,true
+142,Ernesto Sabato,masculino,true
+143,Ruth Prawer Jhabvala,femenino,true
+144,Katherine Anne Porter,femenino,true
+145,Susanna Clarke,femenino,true
+146,Flannery O'Connor,femenino,true
+147,Bernard Malamud,masculino,true
+148,Dominique Fernandez,masculino,true
+149,Juan Goytisolo,masculino,true
+150,Nicanor Parra,masculino,true
+151,Anna Langfus,femenino,true
+152,Edmonde Charles-Roux,femenino,true
+153,Ernest Hemingway,masculino,true
+154,Pär Lagerkvist,masculino,true
+155,Eugenio Montale,masculino,true
+156,Patrick Rambaud,masculino,true
+157,Bernard Clavel,masculino,true
+158,René Maran,masculino,true
+159,Jean-Christophe Rufin,masculino,true
+160,Jacques-Pierre Amette,masculino,true
+161,Didier Van Cauwelaert,masculino,true
+162,Juan Marsé,masculino,true
+163,Gonzalo Torrente Ballester,masculino,true
+164,Augusto Roa Bastos,masculino,true
+165,Wesley Morris,masculino,true
+166,Alice Munro,femenino,true
+167,Eugene O'Neill,masculino,true
+168,Jean-Paul Sartre,masculino,true
+169,André Pieyre de Mandiargues,masculino,true
+170,Patrick Chamoiseau,masculino,true
+171,John Irving,masculino,true
+172,Michael Chabon,masculino,true
+173,Mo Yan,masculino,true
+174,Alexis Jenni,masculino,true
+175,Henri Béraud,masculino,true
+176,Maxence Van der Meersch,masculino,true
+177,François Weyergans,masculino,true
+178,Antonio Buero Vallejo,masculino,true
+179,Conrad Aiken,masculino,true
+180,Gonzalo Rojas,masculino,true
+181,Jacinto Benavente,masculino,true
+182,Paule Constant,femenino,true
+183,Frédérick Tristan,masculino,true
+184,Didier Decoin,masculino,true
+185,Pierre Combescot,masculino,true
+186,Laurent Gaudé,masculino,true
+187,Jean-Jacques Schuhl,masculino,true
+188,Rose Tremain,femenino,true
+189,Jane Smiley,femenino,true
+190,Louise Erdrich,femenino,true
+191,Patricia Highsmith,femenino,true
+192,Joyce Johnson,femenino,true
+193,Jean Stafford,femenino,true
+194,Roger Vailland,masculino,true
+195,Félicien Marceau,masculino,true
+196,Jean-Paul Dubois,masculino,true
+197,Henri Pourrat,masculino,true
+198,George Bernard Shaw,masculino,true
+199,Theodor Mommsen,masculino,true
+200,Seamus Heaney,masculino,true
+201,Ann Patchett,femenino,true
+202,Mary Gordon,femenino,true
+203,Antonine Maillet,femenino,true
+204,Ernest Pérochon,masculino,true
+205,Georges Conchon,masculino,true
+206,Sinclair Lewis,masculino,true
+207,Jean Fayard,masculino,true
+208,André Savignon,masculino,true
+209,Dorothy Parker,femenino,true
+210,Tillie Olsen,femenino,true
+211,Sergio Pitol,masculino,true
+212,Ira Glass,masculino,true
+213,Héctor Rondón Lovera,masculino,true
+214,Adam Johnson,masculino,true
+215,Alex Jones,masculino,true
+216,Fernando del Paso Morante,masculino,true
+217,José Emilio Pacheco,masculino,true
+218,Denis Johnson,masculino,true
+219,Junot Díaz,masculino,true
+220,Helen Dunmore,femenino,true
+221,Mark Haddon,masculino,true
+222,Thomas J. Mabry,masculino,true
+223,Hermann Hesse,masculino,true
+224,Gao Xingjian,masculino,true
+225,Bertrand Russell,masculino,true
+226,Rafael Sánchez Ferlosio,masculino,true
+227,Juan Gelman,masculino,true
+228,Luis Rosales,masculino,true
+229,Maurice Bedel,masculino,true
+230,Yves Navarre,masculino,true
+231,Jean-Louis Curtis,masculino,true
+232,Carlotta Gall,femenino,true
+233,Claude Farrère,masculino,true
+234,Marjorie Kinnan Rawlings,femenino,true
+235,Anne Michaels,femenino,true
+236,Michel Host,masculino,true
+237,Jacques Borel,masculino,true
+238,Marius Grout,masculino,true
+239,Pascal Lainé,masculino,true
+240,Albert Camus,masculino,true
+241,Cynthia Ozick,femenino,true
+242,Yiyun Li,femenino,true
+243,Louis Pergaud,masculino,true
+244,Jean Tharaud,masculino,true
+245,Charles Plisnier,masculino,true
+246,Sebastià Juan Arbó,masculino,true
+247,Jorge Amado,masculino,true
+248,Melanie Jayne Burford,femenino,true
+249,Maggie Michael,femenino,true
+250,Hannah McKay,femenino,true
+251,Władysław Reymont,masculino,true
+252,Albert Cohen,masculino,true
+253,Michel Déon,masculino,true
+254,Antonio Gamoneda,masculino,true
+255,Dave Barry,masculino,true
+256,William Ecenbarger,masculino,true
+257,Frank W. Buxton,masculino,true
+258,Dar Yasin,masculino,true
+259,Rudyard Kipling,masculino,true
+260,David Shaw,masculino,true
+261,Terry Southern,masculino,true
+262,Irvin S. Cobb,masculino,true
+263,Pablo Neruda,masculino,true
+264,Mary Jordan,femenino,true
+265,Mei Fong,femenino,true
+266,Jean Vautrin,masculino,true
+267,Francis Walder,masculino,true
+268,Thomas Mann,masculino,true
+269,Lionel Shriver,femenino,true
+270,John Edgar Wideman,masculino,true
+271,Graham Joyce,masculino,true
+272,Sherman Alexie,masculino,true
+273,Dexter Filkins,masculino,true
+274,Malcolm Johnson,masculino,true
+275,Pir Zubair Shah,masculino,true
+276,Stephen Schiff,masculino,true
+277,Jaroslav Seifert,masculino,true
+278,Eyvind Johnson,masculino,true
+279,Antoine de Saint-Exupéry,masculino,true
+280,Miguel Torga,masculino,true
+281,Claude Simon,masculino,true
+282,Yann Queffélec,masculino,true
+283,Léon Frapié,masculino,true
+284,Jacques Laurent,masculino,true
+285,Jean Rouaud,masculino,true
+286,Amélie Nothomb,femenino,true
+287,Jhumpa Lahiri,femenino,true
+288,Sophia de Mello Breyner,femenino,true
+289,Lucía Etxebarria,femenino,true
+290,Derek Walcott,masculino,true
+291,Frans Eemil Sillanpää,masculino,true
+292,James Gould Cozzens,masculino,true
+293,Yannis Behrakis,masculino,true
+294,Roman Anin,masculino,true
+295,John Moore,masculino,true
+296,José Saramago,masculino,true
+297,Roger Martin du Gard,masculino,true
+298,Aleksandr Solzhenitsyn,masculino,true
+299,Gioconda Belli,femenino,true
+300,Calixthe Beyala,femenino,true
+301,Stephanie Sinclair,femenino,true
+302,Jane Spencer,femenino,true
+303,Georges Bernanos,masculino,true
+304,William Trevor,masculino,true
+305,Karl Adolph Gjellerup,masculino,true
+306,Edward P. Jones,masculino,true
+307,Peter Matthew Hillsman Taylor,masculino,true
+308,James Tabor,masculino,true
+309,Kelly Link,femenino,true
+310,Shirley Hazzard,femenino,true
+311,Verner von Heidenstam,masculino,true
+312,Patrick White,masculino,true
+313,José Echegaray,masculino,true
+314,Władysław Bartoszewski,masculino,true
+315,Mia Couto,masculino,true
+316,Lev Kópelev,masculino,true
+317,Liao Yiwu,masculino,true
+318,Juan José Saer,masculino,true
+319,José Asenjo Sedano,masculino,true
+320,Sebastião Salgado,masculino,true
+321,Álvaro Pombo,masculino,true
+322,Rosa Regàs,femenino,true
+323,Johannes Vilhelm Jensen,masculino,true
+324,Carmen Laforet,femenino,true
+325,Paulina Chiziane,femenino,true
+326,Rachel de Queiroz,femenino,true
+327,Deborah Eisenberg,femenino,true
+328,Saint-John Perse,masculino,true
+329,Ángela Vallvey,femenino,true
+330,Maruja Torres,femenino,true
+331,Carmen Martín Gaite,femenino,true
+332,Juan Ramón Jiménez,masculino,true
+333,Agustina Bessa-Luís,femenino,true
+334,Fernando Arrabal,masculino,true
+335,György Konrád,masculino,true
+336,Giovanni Arpino,masculino,true
+337,Giorgio Pressburger,masculino,true
+338,Guillermo Martínez,masculino,true
+339,Yaşar Kemal,masculino,true
+340,Raduan Nassar,masculino,true
+341,Barbara Davidson,femenino,true
+342,Esther Htusan,femenino,true
+343,Jessica Rinaldi,femenino,true
+344,Emily Steel,femenino,true
+345,Stephanie McCrummen,femenino,true
+346,Clara Sánchez,femenino,true
+347,Lygia Fagundes Telles,femenino,true
+348,Harry Martinson,masculino,true
+349,Émile Henriot,masculino,true
+350,Ferreira Gullar,masculino,true
+351,Juan José Millás,masculino,true
+352,Erik Axel Karlfeldt,masculino,true
+353,Shmuel Yosef Agnón,masculino,true
+354,Pierre Benoît,masculino,true
+355,Bertrand Poirot-Delpech,masculino,true
+356,Pierre-Jean Rémy,masculino,true
+357,Chico Buarque,masculino,true
+358,António Lobo Antunes,masculino,true
+359,Ronald Glenn Callvert,masculino,true
+360,Dibya Ranjan Giri,masculino,true
+361,Gaylord Shaw,masculino,true
+362,John Carreyrou,masculino,true
+363,Boris Yurchenko,masculino,true
+364,Maria Velho da Costa,femenino,true
+365,Giorgos Seferis,masculino,true
+366,Sorj Chalandon,masculino,true
+367,Rubem Fonseca,masculino,true
+368,Samuel Beckett,masculino,true
+369,Ernesto Ferrero,masculino,true
+370,Pepetela,masculino,true
+371,Philippe Beaussant,masculino,true
+372,Laurent Binet,masculino,true
+373,Jean d'Ormesson,masculino,true
+374,Joseph Kessel,masculino,true
+375,T. S. Eliot,masculino,true
+376,Manuel António Pina,masculino,true
+377,José Luandino Vieira,masculino,true
+378,Eugénio de Andrade,masculino,true
+379,José Craveirinha,masculino,true
+380,Henrik Pontoppidan,masculino,true
+381,Kay Boyle,femenino,true
+382,Vergílio Ferreira,masculino,true
+383,Eduardo Lourenço,masculino,true
+384,Saul Friedländer,masculino,true
+385,Jean de La Varende,masculino,true
+386,Francis Ponge,masculino,true
+387,Herta Müller,femenino,true
+388,Alicia Giménez Bartlett,femenino,true
+389,Harold Brodkey,masculino,true
+390,Albert Maltz,masculino,true
+391,Vicente Aleixandre,masculino,true
+392,Odysséas Elýtis,masculino,true
+393,William Butler Yeats,masculino,true
+394,Jean-Marie Gustave Le Clézio,masculino,true
+395,Borís Pasternak,masculino,true
+396,Victor Gollancz,masculino,true
+397,Willem Visser 't Hooft,masculino,true
+398,Germano Almeida,masculino,true
+399,Anne Wiazemsky,femenino,true
+400,Jean Raspail,masculino,true
+401,Hédi Kaddour,masculino,true
+402,Alphonse Boudard,masculino,true
+403,Jean Orieux,masculino,true
+404,Carl Spitteler,masculino,true
+405,Maggie O'Farrell,femenino,true
+406,Kamila Shamsie,femenino,true
+407,Lola Shoneyin,femenino,true
+408,Knut Hamsun,masculino,true
+409,Maria Bellonci,femenino,true
+410,Suketu Mehta,masculino,true
+411,Raffaele La Capria,masculino,true
+412,Carlo Sgorlon,masculino,true
+413,Carolin Emcke,femenino,true
+414,Walter Duranty,masculino,true
+415,W. R. Burnett,masculino,true
+416,Stephen Vincent Benét,masculino,true
+417,John Steinbeck,masculino,true
+418,Orhan Pamuk,masculino,true
+419,Francis Carco,masculino,true
+420,Jacques de Lacretelle,masculino,true
+421,Boualem Sansal,masculino,true
+422,Tomas Tranströmer,masculino,true
+423,Wole Soyinka,masculino,true
+424,Vincenzo Cardarelli,masculino,true
+425,Manuel Mejía Vallejo,masculino,true
+426,Alessandro Barbero,masculino,true
+427,Juan Manuel de Prada,masculino,true
+428,Henri Queffélec,masculino,true
+429,Frédéric Vitoux,masculino,true
+430,Stanislao Nievo,masculino,true
+431,Goffredo Parise,masculino,true
+432,António Cândido,masculino,true
+433,Gordon Lish,masculino,true
+434,Elizabeth McCracken,femenino,true
+435,Elizabeth Stuckey-French,femenino,true
+436,Daniyal Mueenuddin,masculino,true
+437,Eddie Chuculate,masculino,true
+438,Edison Marshall,masculino,true
+439,Guido Piovene,masculino,true
+440,Abdulrazak Gurnah,masculino,true
+441,Anna Maria Ortese,femenino,true
+442,Renata Adler,femenino,true
+443,Manuel Alegre,masculino,true
+444,Massimo Bontempelli,masculino,true
+445,Kate Grenville,femenino,true
+446,Olga Tokarczuk,femenino,true
+447,Pierre Moinot,masculino,true
+448,Doris Lessing,femenino,true
+449,Pierre Schoendoerffer,masculino,true
+450,Alison Baker,femenino,true
+451,Anjana Appachana,femenino,true
+452,Anne Leaton,femenino,true
+453,Cornelia Nixon,femenino,true
+454,Gerhart Hauptmann,masculino,true
+455,Harold Pinter,masculino,true
+456,Alexi Zentner,masculino,true
+457,Amit Majmudar,masculino,true
+458,Elizabeth Tallent,femenino,true
+459,Ella Leffland,femenino,true
+460,Inez Haynes Irwin,femenino,true
+461,Tayari Jones,femenino,true
+462,Autran Dourado,masculino,true
+463,João Ubaldo Ribeiro,masculino,true
+464,João Cabral de Melo Neto,masculino,true
+465,Giuseppe Pontiggia,masculino,true
+466,Kevin Brockmeier,masculino,true
+467,Walter Van Tilburg Clark,masculino,true
+468,Frederic Tuten,masculino,true
+469,Guy de Pourtalès,masculino,true
+470,Luis Goytisolo,masculino,true
+471,Eric Faye,masculino,true
+472,Vladimir Volkoff,masculino,true
+473,Gordon Weaver,masculino,true
+474,Harris Downey,masculino,true
+475,Adélaïde de Clermont-Tonnerre,femenino,true
+476,André Corthis,femenino,true
+477,Mijaíl Shólojov,masculino,true
+478,André Demaison,masculino,true
+479,Bernard Barbey,masculino,true
+480,Bernard du Boucheron,masculino,true
+481,Camille Bourniquel,masculino,true
+482,Selma Lagerlöf,femenino,true
+483,Colum McCann,masculino,true
+484,Charles Frazier,masculino,true
+485,Louise Glück,femenino,true
+486,Franz-Olivier Giesbert,masculino,true
+487,François Nourissier,masculino,true
+488,Óscar Hahn,masculino,true
+489,Roberto Bolaño,masculino,true
+490,Kléber Haedens,masculino,true
+491,Albert Touchard,masculino,true
+492,Kazuo Ishiguro,masculino,true
+493,Alain Bosquet,masculino,true
+494,Philippe Hériat,masculino,true
+495,Heinrich Böll,masculino,true
+496,Enzo Siciliano,masculino,true
+497,Mario Tobino,masculino,true
+498,Martín Caparrós,masculino,true
+499,Luis García Montero,masculino,true
+500,Anatole France,masculino,true
+501,Pietro Citati,masculino,true
+502,Raffaele Brignetti,masculino,true
+503,Helena Janeczek,femenino,true
+504,Juan Villoro,masculino,true
+505,Juan Pablo Villalobos,masculino,true
+506,Wisława Szymborska.,femenino,true
+507,Patrick Besson,masculino,true
+508,José Manuel Caballero Bonald,masculino,true
+509,Frédéric Mistral,masculino,true
+510,Henryk Sienkiewicz,masculino,true
+511,Vittorio Gorresio,masculino,true
+512,Walter Siti,masculino,true
+513,Peter Handke,masculino,true
+514,William Maxwell,masculino,true
+515,Miguel Ángel Velasco,masculino,true
+516,Robert Stone,masculino,true
+517,Jacques Chardonne,masculino,true
+518,Michel Mohrt,masculino,true
+519,Pierre Michon,masculino,true
+520,Charles R. Johnson,masculino,true
+521,Norman Rush,masculino,true
+522,Yasunari Kawabata,masculino,true
+523,Mario Pomilio,masculino,true
+524,Sebastiano Vassalli,masculino,true
+525,Sandro Veronesi,masculino,true
+526,Henri Bergson,masculino,true
+527,Svetlana Aleksiévich,femenino,true
+528,Sully Prudhomme,masculino,true
+529,Czesław Miłosz,masculino,true
+530,Joan Manuel Gisbert,masculino,true
+531,Antonio Soler,masculino,true
+532,Irina Yuryevna Kuberskaya,femenino,true
+533,Ana Isabel Conejo,femenino,true
+534,Christophe Ono-dit-Biot,masculino,true
+535,Daniel Rondeau,masculino,true
+536,Jean Hougron,masculino,true
+537,Jean Husson,masculino,true
+538,Joseph-Henri Louwyck,masculino,true
+539,Jean Balde,femenino,true
+540,Tiziano Scarpa,masculino,true
+541,Alberto Bevilacqua,masculino,true
+542,Jaimy Gordon,femenino,true
+543,V. S. Naipaul,masculino,true
+544,John Coetzee,masculino,true
+545,Alice McDermott,femenino,true
+546,Lily Tuck,femenino,true
+547,Paolo Volponi,masculino,true
+548,Francisco Casavella,masculino,true
+549,Gesualdo Bufalino,masculino,true
+550,Guadalupe Nettel,femenino,true
+551,Alejandro Cuevas,masculino,true
+552,Lorenzo Oliván,masculino,true
+553,Félix de Azúa,masculino,true
+554,Pedro Zarraluki,masculino,true
+555,Eimear McBride,femenino,true
+556,Lisa McInerney,femenino,true
+557,Giosuè Carducci,masculino,true
+558,Carles Cano Peiró,masculino,true
+559,José Agustín Goytisolo,masculino,true
+560,Roberto guevara sosa,masculino,true
+561,Pablo Armando Fernández,masculino,true
+562,Alfredo Conde,masculino,true
+563,Rafael Argullol,masculino,true
+564,Dalton Trevisan,masculino,true
+565,Luis Bagué Quílez,masculino,true
+566,Luisgé Martín,masculino,true
+567,Juana Salabert,femenino,true
+568,Nivaria Tejera,femenino,true
+569,Beatriz Doumerc,femenino,true
+570,Camille Mayran,femenino,true
+571,Eliacer Cansino,masculino,true
+572,Frédérique Hébrard,femenino,true
+573,Geneviève Dormann,femenino,true
+574,Henriette Jelinek,femenino,true
+575,Asun Balzola,femenino,true
+576,Jacques de Bourbon Busset,masculino,true
+577,Vassilis Alexakis,masculino,true
+578,Michel Droit,masculino,true
+579,Fausta Cialente,femenino,true
+580,Mariateresa Di Lascia,femenino,true
+581,Camille Pascal,masculino,true
+582,Charles Géniaux,masculino,true
+583,Christian Murciaux,masculino,true
+584,Joseph Jolinon,masculino,true
+585,Adriano González León,masculino,true
+586,Fernando Aramburu,masculino,true
+587,Giorgio Montefoschi,masculino,true
+588,Tim O'Brien,masculino,true
+589,J. F. Powers,masculino,true
+590,Fernando Marías Amondo,masculino,true
+591,Michele Prisco,masculino,true
+592,Iván Bunin,masculino,true
+593,William Golding,masculino,true
+594,Paul Guth,masculino,true
+595,Gabriel d'Aubarède,masculino,true
+596,Elfriede Jelinek,femenino,true
+597,Andrés Barba,masculino,true
+598,Antonio Gracia Caselles,masculino,true
+599,Miguel Ángel Asturias,masculino,true
+600,Juan Bonilla,masculino,true
+601,Clara Usón,femenino,true
+602,François-Olivier Rousseau,masculino,true
+603,François Duhourcau,masculino,true
+604,François Sureau,masculino,true
+605,François Taillandier,masculino,true
+606,Jesmyn Ward,femenino,true
+607,Ivo Andrić,masculino,true
+608,Peter Matthiessen,masculino,true
+609,Wright Morris,masculino,true
+610,José García Nieto,masculino,true
+611,Henri Coulonges,masculino,true
+612,Henry Castillou,masculino,true
+613,Jacques-Francis Rolland,masculino,true
+614,Jean-Noël Pancrazi,masculino,true
+615,Conrad Richter,masculino,true
+616,José Hierro,masculino,true
+617,Domenico Rea,masculino,true
+618,Emanuele Trevi,masculino,true
+619,Francesco Piccolo,masculino,true
+620,Nicola Lagioia,masculino,true
+621,Rafael Courtoisie,masculino,true
+622,Rafael Espejo,masculino,true
+623,Rubén Martín Díaz,masculino,true
+624,Cesare Pavese,masculino,true
+625,Umberto Eco,masculino,true
+626,Pilar Lozano Carbayo,femenino,true
+627,Mariana Enríquez,femenino,true
+628,Marta Sanz,femenino,true
+629,Vicente Gaos,masculino,true
+630,Carlos Murciano,masculino,true
+631,Diego Doncel,masculino,true
+632,Paloma Díaz-Mas,femenino,true
+633,José Ángel Valente,masculino,true
+634,Félix Grande,masculino,true
+635,Carlos Pardo,masculino,true
+636,Guillermo Carnero,masculino,true
+637,Vanesa Pérez-Sauquillo,femenino,true
+638,Rafael Soto Vergés,masculino,true
+639,Pureza Canelo,femenino,true
+640,Elvira Sastre,femenino,true
+641,Raquel Taranilla,femenino,true
+642,María Elvira Lacaci,femenino,true
+643,Javier Pérez Andújar,masculino,true
+644,Javier Vela,masculino,true
+645,José Luis Piquero,masculino,true
+646,Joaquín Caro Romero,masculino,true
+647,Lorenzo Gomis,masculino,true
+648,Javier de Bengoechea,masculino,true
+649,Jesús Bernal,masculino,true
+650,Carmen Vázquez-Vigo,femenino,true
+651,Concha López Narváez,femenino,true
+652,Manuel Padorno,masculino,true
+653,Basilio Sánchez,masculino,true
+654,Diego Jesús Jiménez,masculino,true
+655,Eloy Sánchez Rosillo,masculino,true
+656,Romain Rolland,masculino,true
+657,Miguel Sánchez-Ostiz,masculino,true
+658,Pablo Amargo,masculino,true
+659,Bjørnstjerne Bjørnson,masculino,true
+660,Alfonso Moreno,masculino,true
+661,Maurice Maeterlinck,masculino,true
+662,Álvaro García,masculino,true
+663,Luis Artigue,masculino,true
+664,Jesús Hilario Tundidor,masculino,true
+665,Joaquín Benito de Lucas,masculino,true
+666,Joaquín Pérez Azaústre,masculino,true
+667,Nadine Gordimer,femenino,true
+668,Irene Sánchez Carrón,femenino,true
+669,Alba Flores Robla,femenino,true
+670,María Elena Higueruelo,femenino,true
+671,María Luisa Mora Alameda,femenino,true
+672,Juan Carlos Mestre,masculino,true
+673,Eduardo Moga,masculino,true
+674,Martha Asunción Alonso,femenino,true
+675,Luis Feria,masculino,true
+676,Mariano Roldán,masculino,true
+677,Laura Lío,femenino,true
+678,María Solar,femenino,true
+679,Alaine Agirre,femenino,true
+680,Cristina Morales,femenino,true
+681,André Gide,masculino,true
+682,Ben Clark,masculino,true
+683,Beatriz Hernanz,femenino,true
+684,Carlos Vaquerizo,masculino,true
+685,Jorge Galán,masculino,true
+686,José Antonio Gómez-Coronado,masculino,true
+687,José Antonio Moreno Jurado,masculino,true
+688,José Gutiérrez Román,masculino,true
+689,José Infante,masculino,true
+690,James Krüss,masculino,true
+691,Ricardo Molina Tenor,masculino,true
+692,Pat Barker,femenino,true
+693,Cecil Bødker,femenino,true
+694,Fernando Martínez Gil,masculino,true
+695,Paco Climent,masculino,true
+696,Fernando del Val,masculino,true
+697,Julia Castillo,femenino,true
+698,Julia Uceda,femenino,true
+699,Giovanni Comisso,masculino,true
+700,Astrid Lindgren,femenino,true
+701,Teresa Soto González,femenino,true
+702,Margaret Atwood,femenino,true
+703,Juan Rulfo,masculino,true
+704,Mario Soldati,masculino,true
+705,Isaac Bashevis Singer,masculino,true
+706,René Guillot,masculino,true
+707,Klaus Ensikat,masculino,true
+708,Sergio Navarro Ramírez,masculino,true
+709,Ángel García López,masculino,true
+710,James McBride,masculino,true
+711,Arundhati Roy,femenino,true
+712,Salman Rushdie,masculino,true
+713,José Luis Alegre Cudós,masculino,true
+714,José Martínez Ros,masculino,true
+715,Yann Martel,masculino,true
+716,Primo Levi,masculino,true
+717,Margarita del Mazo,femenino,true
+718,Carlota Ferrer,femenino,true
+719,Judit Morales i Villanueva,femenino,true
+720,Aroa Moreno Durán,femenino,true
+721,Begoña M. Rueda,femenino,true
+722,Javier Peñas Navarro,masculino,true
+723,Phil Klay,masculino,true
+724,Adrián González da Costa,masculino,true
+725,Nelly Sachs,femenino,true
+726,Rudolf Christoph Eucken,masculino,true
+727,Juan Vicente Piqueras,masculino,true
+728,Justo Navarro,masculino,true
+729,Toni Morrison,femenino,true
+730,Imre Kertész,masculino,true
+731,Ángelo Néstore,masculino,true
+732,José Javier Aleixandre Ybargüen,masculino,true
+733,Lluís Domènech Alberdi,masculino,true
+734,Lynn Freed,femenino,true
+735,Mary Swan,femenino,true
+736,Michelle Huneven,femenino,true
+737,Stuart Dybek,masculino,true
+738,Rosario Neira,femenino,true
+739,Joaquín Moreno Pedrosa,femenino,true
+740,Susan Kenney,femenino,true
+741,Eugenio García de Nora,masculino,true
+742,Francisco Serradilla,masculino,true
+743,Thom Jones,masculino,true
+744,Wilbur Daniel Steele,masculino,true
+745,Carlos Sahagún,masculino,true
+746,Giuseppe Tomasi di Lampedusa,masculino,true
+747,Tormod Haugen,masculino,true
+748,Michio Mado,masculino,true
+749,Paula Fox,femenino,true
+750,James Lasdun,masculino,true
+751,Jim Shepard,masculino,true
+752,John Batki,masculino,true
+753,José María Sánchez-Silva y García-Morales,masculino,true
+754,Meindert DeJong,masculino,true
+755,Erich Kästner,masculino,true
+756,Blanca Andreu,femenino,true
+757,Scott O'Dell,masculino,true
+758,Ana Merino,femenino,true
+759,Alberto Moravia,masculino,true
+760,Gianni Rodari,masculino,true
+761,Anne Enright,femenino,true
+762,Ian McEwan,masculino,true
+763,María Gripe,femenino,true
+764,Katherine Paterson,femenino,true
+765,José Antonio Ramírez Lozano,masculino,true
+766,Diego Arboleda,masculino,true
+767,Guillermo Arriaga Jordán,masculino,true
+768,Hernán Rivera Letelier,masculino,true
+769,Arcadio López Casanova,masculino,true
+770,Claudio Rodríguez,masculino,true
+771,Francisco Brines,masculino,true
+772,Maxwell Struthers Burt,masculino,true
+773,Peter Baida,masculino,true
+774,Roark Bradford,masculino,true
+775,Leo E. Litwak,masculino,true
+776,Louis Paul,masculino,true
+777,Elena Quiroga,femenino,true
+778,Roddy Doyle,masculino,true
+779,Natalia Ginzburg,femenino,true
+780,Dacia Maraini,femenino,true
+781,Tove Jansson,femenino,true
+782,Ennio Flaiano,masculino,true
+783,Alberto da Costa e Silva,masculino,true
+784,Andrés Neuman,masculino,true
+785,Lygia Bojunga Nunes,femenino,true
+786,Patricia Wrightson,femenino,true
+787,Carla Guelfenbein,femenino,true
+788,Pau Faner,masculino,true
+789,Lorenzo Silva,masculino,true
+790,Juan Gabriel Vásquez,masculino,true
+791,Carlos Droguett,masculino,true
+792,Luis Leante,masculino,true
+793,Julia Glass,femenino,true
+794,Andrew Fetler,masculino,true
+795,Michel Nieva,masculino,true
+796,Paul von Heyse,masculino,true
+797,José María Carrascal,masculino,true
+798,José Ovejero,masculino,true
+799,José Vidal Cadellans,masculino,true
+800,Juan Antonio Payno,masculino,true
+801,John Casey,masculino,true
+802,José Suárez Carreño,masculino,true
+803,Larry Heinemann,masculino,true
+804,Predrag Matvejević,masculino,true
+805,Alessandro Piperno,masculino,true
+806,Antonio Pennacchi,masculino,true
+807,Anna Maria Geertruida Schmidt,femenino,true
+808,Julian Leonard Street,masculino,true
+809,Hélia Correia,femenino,true
+810,Pilar Quintana,femenino,true
+811,Lisbeth Zwerger,femenino,true
+812,Christine Nöstlinger,femenino,true
+813,Wilbur Schramm,masculino,true
+814,Claudio Magris,masculino,true
+815,Margaret Prescott Montague,femenino,true
+816,Jesús Fernández Santos,masculino,true
+817,Andrés Trapiello,masculino,true
+818,Giuseppe Dessì,masculino,true
+819,Tommaso Landolfi,masculino,true
+820,Felipe Benítez Reyes,masculino,true
+821,Francisco García Pavón,masculino,true
+822,Margaret Mahy,femenino,true
+823,Elsa Morante,femenino,true
+824,Sergio Ramírez,masculino,true
+825,Tomás Eloy Martínez,masculino,true
+826,Santiago Roncagliolo,masculino,true
+827,Jürg Schubiger,masculino,true
+828,Laura van den Berg,femenino,true
+829,Laura Restrepo,femenino,true
+830,Ema Wolf,femenino,true
+831,Care Santos,femenino,true
+832,Najat el Hachmi,femenino,true
+833,Carmen Amoraga,femenino,true
+834,Juan Pedro Aparicio,masculino,true
+835,Juan Ramón Zaragoza,masculino,true
+836,Luis Romero,masculino,true
+837,Patricio Pron,masculino,true
+838,Salvador García Aguilar,masculino,true
+839,Kiran Desai,femenino,true
+840,José Antonio García Blázquez,masculino,true
+841,Leopoldo Brizuela,masculino,true
+842,Eliseo Alberto,masculino,true
+843,Arménio Vieira,masculino,true
+844,Álvaro Cunqueiro,masculino,true
+845,Carlo Cassola,masculino,true
+846,Edoardo Nesi,masculino,true
+847,Ferdinando Camon,masculino,true
+848,Gustavo Martín Garzo,masculino,true
+849,Carlos Rojas Vila,masculino,true
+850,Manuel Vicent,masculino,true
+851,Xavier Velasco,masculino,true
+852,José Félix Tapia,masculino,true
+853,Dolores Medio,femenino,true
+854,Francisco José Alcántara,masculino,true
+855,Germán Sánchez Espeso,masculino,true
+856,Ignacio Carrión,masculino,true
+857,José Luis Martín Descalzo,masculino,true
+858,Anita Brookner,femenino,true
+859,Graciela Montes,femenino,true
+860,José María Gironella,masculino,true
+861,Giovanni Battista Angioletti,masculino,true
+862,José Jiménez Lozano,masculino,true
+863,Daniel Sueiro,masculino,true
+864,José María Mendiola,masculino,true
+865,Dino Buzzati,masculino,true
+866,Niccolò Ammaniti,masculino,true
+867,María Teresa Andruetto,femenino,true
+868,Mariusz Szczygieł,masculino,true
+869,Andrzej Stasiuk,masculino,true
+870,Fulvio Tomizza,masculino,true
+871,Mary Lee Settle,femenino,true
+872,Susan Choi,femenino,true
+873,Eduardo Caballero Calderón,masculino,true
+874,Eduardo Lago,masculino,true
+875,Pedro Maestre Herrero,masculino,true
+876,Kingsley Amis,masculino,true
+877,Farshid Mesghali,masculino,true
+878,Corrado Alvaro,masculino,true
+879,Aidan Chambers,masculino,true
+880,Peter Carey,masculino,true
+881,Michael Ondaatje,masculino,true
+882,David Wiegand,masculino,true
+883,Lalla Romano,femenino,true
+884,Ottessa Moshfegh,femenino,true
+885,Lesley Nneka Arimah,femenino,true
+886,Dina Nayeri,femenino,true
+887,Fiona McFarlane,femenino,true
+888,Neela Vaswani,femenino,true
+889,Karina Sainz Borgo,femenino,true
+890,Rafael Chirbes,masculino,true
+891,Kirmen Uribe,masculino,true
+892,Giorgio Bassani,masculino,true
+893,Ugo Riccarelli,masculino,true
+894,Laureano Albán,masculino,true
+895,Rogelio Guedea,masculino,true
+896,Miguel Fernández,masculino,true
+897,Elvira Lindo,femenino,true
+898,Pascale Roze,femenino,true
+899,Luis Berenguer,masculino,true
+900,Jesús Torbado Carro,masculino,true
+901,Jorge Franco,masculino,true
+902,Henri Fauconnier,masculino,true
+903,Adrien Bertrand,masculino,true
+904,Joan Margarit i Consarnau,masculino,true
+905,Bernardo Atxaga,masculino,true
+906,E. B. White,masculino,true
+907,Ramiro Pinilla,masculino,true
+908,Sergio Vila-Sanjuán,masculino,true
+909,Víctor del Árbol,masculino,true
+910,José C. Vales,masculino,true
+911,Alejandro Palomas,masculino,true
+912,Carlos Cañeque Solá,masculino,true
+913,Vicente Soto Iborra,masculino,true
+914,John Berger,masculino,true
+915,Graham Swift,masculino,true
+916,Carme Riera,femenino,true
+917,Marc Elder,masculino,true
+918,Guy Mazeline,masculino,true
+919,Henri Deberly,masculino,true
+920,Hilary Mantel,femenino,true
+921,Bernice Rubens,femenino,true
+922,Antonio Orlando Rodríguez,masculino,true
+923,Alfonso Grosso,masculino,true
+924,Alejandro Gándara,masculino,true
+925,Noemí María Girbal-Blacha,femenino,true
+926,Eiko Kadono,femenino,true
+927,Suekichi Akaba,masculino,true
+928,Paolo Giordano,masculino,true
+929,Ben Okri,masculino,true
+930,Alan Hollinghurst,masculino,true
+931,Lluïsa Forrellad,femenino,true
+932,Alonso Zamora Vicente,masculino,true
+933,Jérôme Tharaud,masculino,true
+934,Marc Bernard,masculino,true
+935,Maurice Constantin-Weyer,masculino,true
+936,Lydie Salvayre,femenino,true
+937,Maurizio Maggiani,masculino,true
+938,Émile Moselly,masculino,true
+939,Pierre Gascar,masculino,true
+940,Jean Cau,masculino,true
+941,John Antoine Nau,masculino,true
+942,Jean-Louis Bory,masculino,true
+943,Henry Malherbe,masculino,true
+944,René Benjamin,masculino,true
+945,Lucien Bodard,masculino,true
+946,Joseph Peyré,masculino,true
+947,Domenico Starnone,masculino,true
+948,Penelope Lively,femenino,true
+949,Keri Hulme,femenino,true
+950,Penelope Fitzgerald,femenino,true
+951,Ana Maria Machado,femenino,true
+952,José María Merino,masculino,true
+953,Pep Albanell,masculino,true
+954,Eleanor Catton,femenino,true
+955,Anna Burns,femenino,true
+956,Alfonso Martínez Garrido,masculino,true
+957,José María Requena,masculino,true
+958,Cristian Alarcón Casanova,masculino,true
+959,Héctor Vázquez-Azpiri,masculino,true
+960,Alfredo Bryce Echenique,masculino,true
+961,Carmen Gómez Ojea,femenino,true
+962,James Kelman,masculino,true
+963,Stanley Middleton,masculino,true
+964,David Storey,masculino,true
+965,Julian Barnes,masculino,true
+966,Aravind Adiga,masculino,true
+967,Ida Vitale,femenino,true
+968,Bernardine Evaristo,femenino,true
+969,Francis de Miomandre,masculino,true
+970,Roger Vercel,masculino,true
+971,Raúl Guerra Garrido,masculino,true
+972,Mariasun Landa,femenino,true
+973,Paul Beatty,masculino,true
+974,Marcos Giralt Torrente,masculino,true
+975,Inés Martín Rodrigo,femenino,true
+976,Iris Murdoch,femenino,true
+977,Carmen Conde,femenino,true
+978,Ángeles Caso,femenino,true
+979,Espido Freire,femenino,true
+980,Chantal Maillard,femenino,true
+981,Olga Novo,femenino,true
+982,Maite Carranza,femenino,true
+983,Emili Teixidor,masculino,true
+984,Antonio Rodríguez Almodóvar,masculino,true
+985,Alfonso Martínez-Mena,masculino,true
+986,Suso de Toro,masculino,true
+987,Andreu Martín,masculino,true
+988,Eleanor Farjeon,femenino,true
+989,Manuel Rivas,masculino,true
+990,Laura Gallego García,femenino,true
+991,Fernando Lalana,masculino,true
+992,Raimon Portell,masculino,true
+993,Juan Kruz Igerabide,masculino,true
+994,Paco Martín,masculino,true
+995,Xesús Fraga,masculino,true
+996,César Mallorquí,masculino,true
+997,Miguel Ángel Pacheco,masculino,true
+998,Juan Farias,masculino,true
+999,Luis Gasulla,masculino,true
+1000,José María Sanjuán Urmeneta,masculino,true
+1001,José Luis de Tomás García,masculino,true
+1002,Damon Galgut,masculino,true
+1003,P. H. Newby,masculino,true
+1004,Gabriel Janer Manila,masculino,true
+1005,Ledicia Costas,femenino,true
+1006,Javier Marías,masculino,true
+1007,James Gordon Farrell,masculino,true
+1008,Paul Scott,masculino,true
+1009,Barry Unsworth,masculino,true
+1010,Ángel María de Lera,masculino,true
+1011,Juan Eslava Galán,masculino,true
+1012,Ángel Vázquez Molina,masculino,true
+1013,Antonio Gala,masculino,true
+1014,DBC Pierre,masculino,true
+1015,Howard Jacobson,masculino,true
+1016,Javier Moro,masculino,true
+1017,José Antonio Muñoz Rojas,masculino,true
+1018,Javier Sierra,masculino,true
+1019,Concha Alós,femenino,true
+1020,Antonio García Teijeiro,masculino,true
+1021,José Luis Castillo-Puche,masculino,true
+1022,Luis Landero,masculino,true
+1023,Manuel Vázquez Montalbán,masculino,true
+1024,Javier Cercas,masculino,true
+1025,Antonio Prieto Martín,masculino,true
+1026,Antonio Santos Mercero,masculino,true
+1027,Melania G. Mazzucco,femenino,true
+1028,Margaret Mazzantini,femenino,true
+1029,Virginia Hamilton,femenino,true
+1030,Jordi Sierra i Fabra,masculino,true
+1031,Vicente Muñoz Puelles,masculino,true
+1032,Carmen Posadas,femenino,true
+1033,Fina Casalderrey,femenino,true
+1034,Montserrat del Amo,femenino,true
+1035,Marcos Aguinis,masculino,true
+1036,Pere Gimferrer,masculino,true
+1037,Jorge Zepeda Patterson,masculino,true
+1038,Fernando Schwartz,masculino,true
+1039,Rodrigo Rubio,masculino,true
+1040,Francisco González Ledesma,masculino,true
+1041,Agustín Fernández Paz,masculino,true
+1042,Unai Elorriaga López de Letona,masculino,true
+1043,Maria de la Pau Janer,femenino,true
+1044,Marcela Serrano,femenino,true
+1045,Soledad Puértolas,femenino,true
+1046,Cristina Fernández Cubas,femenino,true
+1047,Thomas Keneally,masculino,true
+1048,John Banville,masculino,true
+1049,Luis Mateo Díez,masculino,true
+1050,Xabier P. Docampo,masculino,true
+1051,Fernando Savater,masculino,true
+1052,Antonio Muñoz Molina,masculino,true
+1053,Concha Espina,femenino,true
+1054,Antonio Colinas,masculino,true
+1055,Leopoldo de Luis,masculino,true
+1056,Vicente Molina Foix,masculino,true
+1057,Fernando González Delgado,masculino,true
+1058,Jesús Zárate,masculino,true
+1059,Jorge Díaz,masculino,true
+1060,Carmen Kurtz,femenino,true
+1061,Leonard Cohen,masculino,true
+1062,Ignacio Martínez de Pisón,masculino,true
+1063,Miquel Desclot,masculino,true
+1064,Joan Vinyoli,masculino,true
+1065,Marta Portal,femenino,true
+1066,Almudena Grandes,femenino,true
+1067,Jaume Ribera,masculino,true
+1068,Carmen Mola,femenino,true
+1069,Ramón J. Sender,masculino,true
+1070,Terenci Moix,masculino,true
+1071,Daniel Sánchez Arévalo,masculino,true
+1072,José Luis Olaizola,masculino,true
+1073,Andrés Bosch,masculino,true
+1074,Fernando Sánchez Dragó,masculino,true
+1075,Ricardo de la Cierva y Hoces,masculino,true
+1076,Antonio Larreta,masculino,true
+1077,Jorge Semprún,masculino,true
+1078,Cristina López Barrio,femenino,true
+1079,Eva García Sáenz de Urturi,femenino,true
+1080,Juan Antonio Vallejo-Nágera,masculino,true
+1081,Juan José Mira,masculino,true
+1082,Fernando Bermúdez de Castro,masculino,true
+1083,Manuel Ferrand Murillo,masculino,true
+1084,Agustín Martínez,masculino,true
+1085,Carlos Rojas,masculino,true
+1086,Mercedes Salisachs,femenino,true
+1087,Juan Benet,masculino,true
+1088,Boris Izaguirre,masculino,true
+1089,Jaime Bayly,masculino,true
+1090,Alberto Méndez,masculino,true
+1091,Josep Vallverdú,masculino,true
+1092,José Luis Acquaroni,masculino,true
+1093,Carmen Bravo-Villasante,femenino,true
+1094,Emilio Pascual,masculino,true
+1095,Alfredo Gómez Cerdá,masculino,true
+1096,Dolores Redondo,femenino,true
+1097,George Saunders,masculino,true
+1098,Richard Flanagan,masculino,true
+1099,William T. Vollmann,masculino,true
+1100,Thomas Pynchon,masculino,true
+1101,Susan Sontag,femenino,true
+1102,Emilio Romero Gómez,masculino,true
+1103,Neel Mukherjee,masculino,true
+1104,Marlon James,masculino,true
+1105,Douglas Stuart,masculino,true
+1106,John Barth,masculino,true
+1107,Tomás Salvador,masculino,true
+1108,Torcuato Luca de Tena,masculino,true
+1109,William Gaddis,masculino,true
+1110,Pete Dexter,masculino,true
+1111,James Jones,masculino,true
+1112,Walker Percy,masculino,true
+1113,Ismail Kadare,masculino,true
+1114,Arthur Miller,masculino,true
+1115,Amos Oz,masculino,true
+1116,Thornton Wilder,masculino,true
+1117,Nativel Preciado,femenino,true
+1118,Santiago Lorén,masculino,true
+1119,Santiago Posteguillo,masculino,true
+1120,Fred Vargas,femenino,true
+1121,Fatema Mernissi,femenino,true
+1122,Éric Neuhoff,masculino,true
+1123,Étienne de Montety,masculino,true
+1124,Adrien Bosc,masculino,true
+1125,Theodor Heuss,masculino,true
+1126,Philip Roth,masculino,true
+1127,E. L. Doctorow,masculino,true
+1128,Jonathan Franzen,masculino,true
+1129,Jerzy Kosinski,masculino,true
+1130,Adam Zagajewski,masculino,true
+1131,Liliane Guignabodet,femenino,true
+1132,Rosa Chacel,femenino,true
+1133,Núria Perpinyà,femenino,true
+1134,Joël Dicker,masculino,true
+1135,Louis Gardel,masculino,true
+1136,Louis de Blois,masculino,true
+1137,Cristóbal Zaragoza,masculino,true
+1138,Xavier Benguerel,masculino,true
+1139,Antonio Skármeta,masculino,true
+1140,Fritz Stern,masculino,true
+1141,Alexander Mitscherlich,masculino,true
+1142,Wolf Lepenies,masculino,true
+1143,Paul Tillich,masculino,true
+1144,Augustin Bea,masculino,true
+1145,Marion Dönhoff,femenino,true
+1146,Pablo García Baena,masculino,true
+1147,Francisco Nieva,masculino,true
+1148,William Styron,masculino,true
+1149,Juana Castro Muñoz,femenino,true
+1150,Elías Gómez Picazo,masculino,true
+1151,Ellen Gilchrist,femenino,true
+1152,Jan Assmann,masculino,true
+1153,Carl Friedrich von Weizsäcker,masculino,true
+1154,Alfred Grosser,masculino,true
+1155,Martin Buber,masculino,true
+1156,Karl Dedecius,masculino,true
+1157,Jürgen Habermas,masculino,true
+1158,Raquel Lanseros,femenino,true
+1159,Siri Hustvedt,femenino,true
+1160,Nélida Piñón,femenino,true
+1161,Richard Ford,masculino,true
+1162,John O'Hara,masculino,true
+1163,Annemarie Schimmel,femenino,true
+1164,Reinhold Schneider,masculino,true
+1165,Manès Sperber,masculino,true
+1166,Václav Havel,masculino,true
+1167,Siegfried Lenz,masculino,true
+1168,María Victoria Atencia,femenino,true
+1169,Roger Chauviré,masculino,true
+1170,Yves Gandon,masculino,true
+1171,Édouard Peisson,masculino,true
+1172,Leonardo Padura Fuentes,masculino,true
+1173,Ralph Ellison,masculino,true
+1174,Don DeLillo,masculino,true
+1175,Arturo Uslar Pietri,masculino,true
+1176,José María Guelbenzu,masculino,true
+1177,Paul Auster,masculino,true
+1178,Ricardo Gullón,masculino,true
+1179,Claudio Rodríguez Fer,masculino,true
+1180,Richard Powers,masculino,true
+1181,Emmanuel Carrère,masculino,true
+1182,Ángel González,masculino,true
+1183,Karl Jaspers,masculino,true
+1184,Yvonne Pagniez,femenino,true
+1185,Albert Schweitzer,masculino,true
+1186,Friedrich Schorlemmer,masculino,true
+1187,Jaron Lanier,masculino,true
+1188,Carl Jacob Burckhardt,masculino,true
+1189,Anne Carson,femenino,true
+1190,Ernst Bloch,masculino,true
+1191,Max Frisch,masculino,true
+1192,Rafael Lapesa Melgar,masculino,true
+1193,Hans Jonas,masculino,true
+1194,Martin Walser,masculino,true
+1195,Romano Guardini,masculino,true
+1196,Aleida Assmann,femenino,true
+1197,Pierre Lagarde,masculino,true
+1198,Pierre Moustiers,masculino,true
+1199,Pierre Villetard,masculino,true
+1200,Robert Bourget-Pailleron,masculino,true
+1201,Robert Margerit,masculino,true
+1202,Marie Ferranti,femenino,true
+1203,Roger Schutz,masculino,true
+1204,Amartya Sen,masculino,true
+1205,Navid Kermani,masculino,true
+1206,Marc Blancpain,masculino,true
+1207,Marc Bressant,masculino,true
+1208,Michel de Saint Pierre,masculino,true
+1209,Pascal Jardin,masculino,true
+1210,Alva Myrdal,femenino,true
+1211,Cormac McCarthy,masculino,true
+1212,George F. Kennan,masculino,true
+1213,Sarvepalli Radhakrishnan,masculino,true
+1214,Chinua Achebe,masculino,true
+1215,Yehudi Menuhin,masculino,true
+1216,Abelardo Linares,masculino,true
+1217,Janusz Korczak,masculino,true
+1218,David Grossman,masculino,true
+1219,Péter Esterházy,masculino,true
+1220,Gabriel Marcel,masculino,true
+1221,Carlos Bousoño,masculino,true
+1222,Assia Djebar,femenino,true
+1223,Paule Régnier,femenino,true
+1224,Tsitsi Dangarembga,femenino,true
+1225,Gunnar Myrdal,masculino,true
+1226,Augusto Monterroso,masculino,true
+1227,Anselm Kiefer,masculino,true
+1228,Joanna Bator,femenino,true
+1229,Agnia Bartó,femenino,true
+1230,Uri Orlev,masculino,true
+1231,david almond,masculino,true
+1232,Max Tau,masculino,true
+1233,Paul Acker,masculino,true
+1234,Paul Mousset,masculino,true
+1235,Pham Van Ky,masculino,true
+1236,Ignacio Aldecoa,masculino,true
+1237,José Carlos Somoza,masculino,true
+1238,Xavier Rubert de Ventós,masculino,true
+1239,Léopold Sédar Senghor,masculino,true
+1240,Leszek Kołakowski,masculino,true
+1241,Dušan Kállay,masculino,true
+1242,Robert Ingpen,masculino,true
+1243,Patrick Grainville,masculino,true
+1244,Paul Colin,masculino,true
+1245,Alfonsa de la Torre,femenino,true
+1246,Dvora Omer,femenino,true
+1247,Martin Waddell,masculino,true
+1248,Bohumil Říha,masculino,true
+1249,Villy Sørensen,masculino,true
+1250,Karol Modzelewski,masculino,true
+1251,Jörg Müller,masculino,true
+1252,Nahum Gutman,masculino,true
+1253,Ernesto Cardenal,masculino,true
+1254,Teddy Kollek,masculino,true
+1255,Josefina Aldecoa,femenino,true
+1256,Olvido García Valdés,femenino,true
+1257,Elvira Hernández,femenino,true
+1258,Dolores Soler-Espiauba,femenino,true
+1259,César González-Ruano,masculino,true
+1260,Dardo Scavino,masculino,true
+1261,Josep M. Colomer,masculino,true
+1262,José Antonio Garriga Vela,masculino,true
+1263,José Daniel García,masculino,true
+1264,José Luis Muñoz Jimeno,masculino,true
+1265,Benjamín Prado,masculino,true
+1266,Éric Vuillard,masculino,true
+1267,Baruch Tor-Raz,masculino,true
+1268,Andrzej Franaszek,masculino,true
+1269,Eduardo Mendicutti,masculino,true
+1270,Martín Casariego,masculino,true
+1271,Carmen Berenguer,femenino,true
+1272,Mira Meir,femenino,true
+1273,Nahoko Uehashi,femenino,true
+1274,José Luis Rodríguez del Corral,masculino,true
+1275,José Manuel Díez,masculino,true
+1276,José María Micó,masculino,true
+1277,José María Millares,masculino,true
+1278,Javier Cánaves,masculino,true
+1279,Jorge Ferrer Vidal,masculino,true
+1280,Manlio Cancogni,masculino,true
+1281,Vincenzo Consolo,masculino,true
+1282,Luisa Castro,femenino,true
+1283,Francisca Aguirre,femenino,true
+1284,Juan María Mansera Conde,masculino,true
+1285,Juan Muñoz Martín,masculino,true
+1286,Fernando Quiñones,masculino,true
+1287,Javier Echeverría,masculino,true
+1288,Marian Pilot,masculino,true
+1289,Kelvin Lindemann,masculino,true
+1290,Julio Martínez Mesanza,masculino,true
+1291,Luis Alberto de Cuenca,masculino,true
+1292,Gonzalo Torrente Malvido,masculino,true
+1293,William Ospina,masculino,true
+1294,A. G. Porta,masculino,true
+1295,José Luis Pardo,masculino,true
+1296,Rafael Guillén,masculino,true
+1297,Eugenio Trías,masculino,true
+1298,José Carol Archs,masculino,true
+1299,Antònia Vicens,femenino,true
+1300,Laura Campmany,femenino,true
+1301,Sh. Shifra,femenino,true
+1302,Leïla Slimani,femenino,true
+1303,Carlos Marzal,masculino,true
+1304,María Baranda,femenino,true
+1305,Miriam Reyes,femenino,true
+1306,Luis Melgarejo,masculino,true
+1307,Fulgencio Argüelles,masculino,true
+1308,Adriano del Valle,masculino,true
+1309,Ángeles Mora,femenino,true
+1310,Miguel Casado,masculino,true
+1311,Pierre Lemaitre,masculino,true
+1312,Roger Ikor,masculino,true
+1313,Thierry Sandre,masculino,true
+1314,Jose Luis Prado Nogueira,masculino,true
+1315,Lázaro Covadlo,masculino,true
+1316,Manuel Cruz,masculino,true
+1317,Alfonso Canales,masculino,true
+1318,Alfredo Taján,masculino,true
+1319,Gloria Gervitz,femenino,true
+1320,Rafael Azuar,masculino,true
+1321,Andrea Abreu López,femenino,true
+1322,Patricia Soley-Beltrán,femenino,true
+1323,David Hernández Sevillano,masculino,true
+1324,Carlos Briones,masculino,true
+1325,Carmen Boullosa,femenino,true
+1326,Fernando Chivite,masculino,true
+1327,Jesús Aguado,masculino,true
+1328,Miguel-Anxo Murado,masculino,true
+1329,Víctor Gómez Pin,masculino,true
+1330,Emilio Sola,masculino,true
+1331,Luis del Val,masculino,true
+1332,Luis Álvarez Piñer,masculino,true
+1333,Luís Blanco Vila,masculino,true
+1334,Magdalena Grochowska,femenino,true
+1335,Miren Agur Meabe,femenino,true
+1336,Pilar Pallarés García,femenino,true
+1337,José Corredor Matheos,masculino,true
+1338,Manuel Álvarez Torneiro,masculino,true
+1339,Carmen Jodra,femenino,true
+1340,Nicolas Mathieu,masculino,true
+1341,Mohamed Mbougar Sarr,masculino,true
+1342,Víctor Chamorro,masculino,true
+1343,Álvaro Tato,masculino,true
+1344,Antonio Carvajal,masculino,true
+1345,Jorge Ortega,masculino,true
+1346,Norbert Bilbeny,masculino,true
+1347,Manuel Delgado Ruiz,masculino,true
+1348,Antonio Escohotado,masculino,true
+1349,Basilio Fernández López,masculino,true
+1350,Ariadna G. García,femenino,true
+1351,Begoña García-Diego,femenino,true
+1352,Andrea Ferrari,femenino,true
+1353,Antonio Hernández Ramírez,masculino,true
+1354,Eusebio García Luengo,masculino,true
+1355,Jordi Llovet i Pomar,masculino,true
+1356,Fermín Herrero,masculino,true
+1357,Daniel Gamper,masculino,true
+1358,Matías Montes Huidobro,masculino,true
+1359,Víctor Maña,masculino,true
+1360,Juan Manuel Muñoz Aguirre,masculino,true
